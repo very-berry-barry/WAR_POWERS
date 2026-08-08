@@ -64,8 +64,7 @@ We want to make sure everything is updated and that we can install samtools.
 $ sudo apt update && sudo apt upgrade -y && sudo apt install samtools -y
 ```
 
-That's all!
-
+Now you're ready to run!
 
 ## Running 
 
@@ -93,7 +92,7 @@ Double-click WAR\_POWERS.command
 3. Run the script
 
 ```bash
-$ ./WAR\_POWERS.txt
+$ ./WAR\_POWERS.sh
 ```
 
 ## Output
